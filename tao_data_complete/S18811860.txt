@@ -1,0 +1,42 @@
+71.229.185.191 30/October/2018 03:23:18 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 Age: 51	Gender: male
+71.229.185.191 30/October/2018 03:23:50 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 0 Danny_Standing_clip4.txt t(9,23,42,754);t(9,23,53,62); 1 59 216 207 1W practice
+71.229.185.191 30/October/2018 03:24:01 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 1 Danny_Standing_clip3.txt t(9,23,53,237);t(9,24,4,73); 1 48 331 213 1R practice
+71.229.185.191 30/October/2018 03:24:16 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 2 Danny_Standing_clip5.txt t(9,24,4,331);t(9,24,18,774); 0 60 283 223 NA practice
+71.229.185.191 30/October/2018 03:24:24 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 3 Danny_Standing_clip6.txt t(9,24,19,2);t(9,24,26,575); 1 48 276 208 1B practice
+71.229.185.191 30/October/2018 03:24:34 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 4 Danny_Standing_clip2.txt t(9,24,26,870);t(9,24,37,438); 1 66 391 212 1G practice
+71.229.185.191 30/October/2018 03:24:44 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 5 Danny_Standing_clip1.txt t(9,24,37,664);t(9,24,46,932); 1 60 345 224 practice
+71.229.185.191 30/October/2018 03:25:01 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 quiz:Q1:1_Q2:2
+71.229.185.191 30/October/2018 03:25:31 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 0 Tao_Standing_clip4.txt t(9,25,23,416);t(9,25,33,676); 1 60 397 274 4R 1
+71.229.185.191 30/October/2018 03:25:58 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 1 Tao_Standing_clip1.txt t(9,25,34,86);t(9,26,1,52); 1 57 278 227 2B 1
+71.229.185.191 30/October/2018 03:26:10 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 2 Shira_Standing_clip12.txt t(9,26,1,285);t(9,26,13,448); 1 63 295 272 4B 1
+71.229.185.191 30/October/2018 03:26:21 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 3 Tao_Standing_clip14.txt t(9,26,13,727);t(9,26,24,461); 1 78 209 273 4W 1
+71.229.185.191 30/October/2018 03:26:34 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 4 Tao_Standing_clip7.txt t(9,26,24,736);t(9,26,36,806); 1 72 444 249 3G 1
+71.229.185.191 30/October/2018 03:26:43 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 5 Shira_Standing_clip6.txt t(9,26,37,48);t(9,26,46,114); 1 49 282 247 3B 1
+71.229.185.191 30/October/2018 03:26:50 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 6 Shira_Standing_clip13.txt t(9,26,46,378);t(9,26,53,508); 1 30 269 214 1B 1
+71.229.185.191 30/October/2018 03:26:59 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 7 Tao_Standing_clip13.txt t(9,26,53,780);t(9,27,1,997); 1 57 211 212 1W 1
+71.229.185.191 30/October/2018 03:27:07 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 8 Tao_Standing_clip12.txt t(9,27,2,311);t(9,27,10,268); 1 45 331 210 1R 1
+71.229.185.191 30/October/2018 03:27:22 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 9 Shira_Standing_clip4.txt t(9,27,10,531);t(9,27,25,484); 1 35 219 224 2W 1
+71.229.185.191 30/October/2018 03:27:32 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 10 Shira_Standing_clip11.txt t(9,27,25,749);t(9,27,35,125); 1 55 327 215 1R 1
+71.229.185.191 30/October/2018 03:27:44 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 11 Tao_Standing_clip5.txt t(9,27,35,506);t(9,27,47,500); 1 41 364 250 3R 1
+71.229.185.191 30/October/2018 03:27:52 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 12 Shira_Standing_clip8.txt t(9,27,47,795);t(9,27,54,673); 1 35 214 213 1W 1
+71.229.185.191 30/October/2018 03:27:59 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 13 Shira_Standing_clip14.txt t(9,27,54,911);t(9,28,2,565); 1 39 220 231 2W 1
+71.229.185.191 30/October/2018 03:28:10 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 14 Shira_Standing_clip7.txt t(9,28,2,724);t(9,28,13,260); 1 52 219 237 2W 1
+71.229.185.191 30/October/2018 03:28:19 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 15 Tao_Standing_clip11.txt t(9,28,13,555);t(9,28,22,364); 1 62 292 249 1
+71.229.185.191 30/October/2018 03:28:32 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 16 Tao_Standing_clip9.txt t(9,28,24,582);t(9,28,35,18); 1 56 347 224 2R 2
+71.229.185.191 30/October/2018 03:28:46 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 17 Shira_Standing_clip1.txt t(9,28,35,320);t(9,28,48,607); 1 55 396 274 4R 2
+71.229.185.191 30/October/2018 03:28:52 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 18 Shira_Standing_clip15.txt t(9,28,48,865);t(9,28,54,476); 1 39 414 230 2G 2
+71.229.185.191 30/October/2018 03:29:05 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 19 Tao_Standing_clip15.txt t(9,28,54,879);t(9,29,7,708); 1 59 480 271 4G 2
+71.229.185.191 30/October/2018 03:29:16 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 20 Tao_Standing_clip3.txt t(9,29,7,935);t(9,29,18,765); 1 58 296 272 4B 2
+71.229.185.191 30/October/2018 03:29:25 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 21 Tao_Standing_clip2.txt t(9,29,18,999);t(9,29,27,902); 1 47 390 209 1G 2
+71.229.185.191 30/October/2018 03:29:33 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 22 Shira_Standing_clip2.txt t(9,29,28,166);t(9,29,35,788); 1 38 368 252 3R 2
+71.229.185.191 30/October/2018 03:29:47 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 23 Tao_Standing_clip8.txt t(9,29,36,71);t(9,29,49,813); 1 74 217 245 3W 2
+71.229.185.191 30/October/2018 03:29:55 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 24 Tao_Standing_clip6.txt t(9,29,50,68);t(9,29,58,21); 1 32 396 210 1G 2
+71.229.185.191 30/October/2018 03:30:05 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 25 Tao_Standing_clip0.txt t(9,29,58,334);t(9,30,7,813); 1 47 210 212 1W 2
+71.229.185.191 30/October/2018 03:30:12 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 26 Shira_Standing_clip0.txt t(9,30,8,77);t(9,30,14,819); 1 40 344 221 2R 2
+71.229.185.191 30/October/2018 03:30:19 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 27 Shira_Standing_clip10.txt t(9,30,15,130);t(9,30,21,675); 1 33 390 213 1G 2
+71.229.185.191 30/October/2018 03:30:26 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 28 Shira_Standing_clip3.txt t(9,30,21,949);t(9,30,29,172); 1 37 276 225 2B 2
+71.229.185.191 30/October/2018 03:30:35 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 29 Tao_Standing_clip10.txt t(9,30,29,430);t(9,30,37,781); 1 59 271 208 1B 2
+71.229.185.191 30/October/2018 03:30:45 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 30 Shira_Standing_clip5.txt t(9,30,37,947);t(9,30,47,950); 1 52 442 245 3G 2
+71.229.185.191 30/October/2018 03:30:52 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 31 Shira_Standing_clip9.txt t(9,30,48,191);t(9,30,54,740); 1 36 415 228 2
+71.229.185.191 30/October/2018 03:31:15 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 technicalproblems yes- no issues!
+71.229.185.191 30/October/2018 03:31:15 Mozilla/5.0_(Windows_NT_10.0;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S18811860 decision just tried as best I could to read the body movements

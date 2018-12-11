@@ -1,0 +1,42 @@
+73.139.146.195 30/October/2018 12:55:30 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 Age: 29	Gender: Male
+73.139.146.195 30/October/2018 12:55:52 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 0 Danny_Standing_clip3.txt t(8,36,54,977);t(8,37,3,745); 0 48 0 0 NA practice
+73.139.146.195 30/October/2018 12:56:07 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 1 Danny_Standing_clip5.txt t(8,37,3,971);t(8,37,18,70); 0 60 0 0 NA practice
+73.139.146.195 30/October/2018 12:56:16 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 2 Danny_Standing_clip6.txt t(8,37,18,286);t(8,37,27,866); 0 48 0 0 NA practice
+73.139.146.195 30/October/2018 12:56:31 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 3 Danny_Standing_clip2.txt t(8,37,28,156);t(8,37,41,903); 0 66 361 205 NA practice
+73.139.146.195 30/October/2018 12:56:40 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 4 Danny_Standing_clip4.txt t(8,37,42,202);t(8,37,51,441); 1 59 215 213 1W practice
+73.139.146.195 30/October/2018 12:56:50 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 5 Danny_Standing_clip1.txt t(8,37,51,690);t(8,38,1,267); 1 60 370 252 practice
+73.139.146.195 30/October/2018 12:56:58 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 quiz:Q1:1_Q2:2
+73.139.146.195 30/October/2018 12:57:12 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 0 Shira_Standing_clip3.txt t(8,38,12,395);t(8,38,22,964); 1 46 277 235 2B 1
+73.139.146.195 30/October/2018 12:57:23 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 1 Tao_Standing_clip14.txt t(8,38,23,205);t(8,38,34,567); 1 75 209 275 4W 1
+73.139.146.195 30/October/2018 12:57:31 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 2 Shira_Standing_clip11.txt t(8,38,34,846);t(8,38,42,552); 1 53 331 212 1R 1
+73.139.146.195 30/October/2018 12:57:37 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 3 Shira_Standing_clip10.txt t(8,38,42,818);t(8,38,48,46); 1 33 389 212 1G 1
+73.139.146.195 30/October/2018 12:57:44 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 4 Tao_Standing_clip4.txt t(8,38,48,217);t(8,38,55,882); 1 53 392 275 4R 1
+73.139.146.195 30/October/2018 12:57:54 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 5 Shira_Standing_clip7.txt t(8,38,56,46);t(8,39,5,590); 1 68 208 277 4W 1
+73.139.146.195 30/October/2018 12:58:04 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 6 Tao_Standing_clip11.txt t(8,39,5,881);t(8,39,15,3); 1 66 287 252 3B 1
+73.139.146.195 30/October/2018 12:58:10 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 7 Shira_Standing_clip8.txt t(8,39,15,245);t(8,39,21,484); 1 45 216 215 1W 1
+73.139.146.195 30/October/2018 12:58:34 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 8 Shira_Standing_clip6.txt t(8,39,21,715);t(8,39,45,220); 1 43 287 254 3B 1
+73.139.146.195 30/October/2018 12:58:39 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 9 Shira_Standing_clip4.txt t(8,39,45,476);t(8,39,50,718); 1 36 217 233 2W 1
+73.139.146.195 30/October/2018 12:58:45 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 10 Shira_Standing_clip0.txt t(8,39,50,976);t(8,39,55,955); 1 36 343 230 2R 1
+73.139.146.195 30/October/2018 12:58:54 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 11 Tao_Standing_clip13.txt t(8,39,56,213);t(8,40,5,742); 1 64 218 232 2W 1
+73.139.146.195 30/October/2018 12:58:59 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 12 Shira_Standing_clip15.txt t(8,40,5,973);t(8,40,10,768); 1 33 390 214 1G 1
+73.139.146.195 30/October/2018 12:59:05 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 13 Tao_Standing_clip12.txt t(8,40,11,31);t(8,40,16,812); 1 41 334 210 1R 1
+73.139.146.195 30/October/2018 12:59:16 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 14 Tao_Standing_clip3.txt t(8,40,17,47);t(8,40,27,647); 1 78 299 279 4B 1
+73.139.146.195 30/October/2018 12:59:46 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 15 Tao_Standing_clip8.txt t(8,40,27,846);t(8,40,57,253); 1 75 216 233 1
+73.139.146.195 30/October/2018 01:00:00 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 16 Tao_Standing_clip7.txt t(8,41,0,366);t(8,41,11,66); 1 69 448 251 3G 2
+73.139.146.195 30/October/2018 01:00:07 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 17 Tao_Standing_clip5.txt t(8,41,11,344);t(8,41,18,209); 1 48 367 248 3R 2
+73.139.146.195 30/October/2018 01:00:13 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 18 Shira_Standing_clip2.txt t(8,41,18,455);t(8,41,24,721); 1 40 364 250 3R 2
+73.139.146.195 30/October/2018 01:00:23 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 19 Tao_Standing_clip15.txt t(8,41,24,974);t(8,41,34,746); 1 71 486 275 4G 2
+73.139.146.195 30/October/2018 01:00:31 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 20 Shira_Standing_clip14.txt t(8,41,34,990);t(8,41,42,163); 1 52 217 245 3W 2
+73.139.146.195 30/October/2018 01:00:41 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 21 Shira_Standing_clip1.txt t(8,41,42,507);t(8,41,52,108); 1 59 396 278 4R 2
+73.139.146.195 30/October/2018 01:00:45 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 22 Shira_Standing_clip13.txt t(8,41,52,374);t(8,41,56,604); 1 29 269 213 1B 2
+73.139.146.195 30/October/2018 01:00:53 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 23 Shira_Standing_clip12.txt t(8,41,56,815);t(8,42,4,63); 1 54 298 279 4B 2
+73.139.146.195 30/October/2018 01:00:59 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 24 Shira_Standing_clip9.txt t(8,42,4,296);t(8,42,10,712); 1 46 448 254 3G 2
+73.139.146.195 30/October/2018 01:01:08 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 25 Tao_Standing_clip2.txt t(8,42,10,926);t(8,42,19,174); 1 58 415 231 2G 2
+73.139.146.195 30/October/2018 01:01:16 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 26 Shira_Standing_clip5.txt t(8,42,19,322);t(8,42,27,145); 1 56 446 250 3G 2
+73.139.146.195 30/October/2018 01:01:23 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 27 Tao_Standing_clip0.txt t(8,42,27,402);t(8,42,34,304); 1 50 216 212 1W 2
+73.139.146.195 30/October/2018 01:01:28 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 28 Tao_Standing_clip6.txt t(8,42,34,537);t(8,42,39,356); 1 33 396 212 1G 2
+73.139.146.195 30/October/2018 01:01:37 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 29 Tao_Standing_clip1.txt t(8,42,39,681);t(8,42,48,835); 1 59 279 233 2B 2
+73.139.146.195 30/October/2018 01:01:45 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 30 Tao_Standing_clip9.txt t(8,42,48,990);t(8,42,56,814); 1 56 349 229 2R 2
+73.139.146.195 30/October/2018 01:01:54 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 31 Tao_Standing_clip10.txt t(8,42,57,27);t(8,43,5,108); 1 61 272 213 2
+73.139.146.195 30/October/2018 01:02:06 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 technicalproblems Yes.
+73.139.146.195 30/October/2018 01:02:06 Mozilla/5.0_(Windows_NT_10.0;_WOW64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S6438197 decision I made it based on where they were looking.

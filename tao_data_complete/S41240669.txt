@@ -1,0 +1,12 @@
+75.32.5.219 05/November/2018 06:34:16 Mozilla/5.0_(Windows_NT_6.3;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 Age: 44	Gender: Male
+75.32.5.219 05/November/2018 06:34:53 Mozilla/5.0_(Windows_NT_6.3;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S41240669 0 Danny_Standing_clip5.txt t(12,34,26,857);t(12,34,55,509); 0 60 0 0 NA practice
+75.32.5.219 05/November/2018 06:35:33 Mozilla/5.0_(Windows_NT_6.3;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S41240669 1 Danny_Standing_clip2.txt t(12,34,56,397);t(12,35,35,621); 1 66 417 229 2G practice
+75.32.5.219 05/November/2018 06:36:21 Mozilla/5.0_(Windows_NT_6.3;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S41240669 2 Danny_Standing_clip1.txt t(12,35,36,449);t(12,36,23,889); 0 60 340 201 NA practice
+75.32.5.219 05/November/2018 06:36:49 Mozilla/5.0_(Windows_NT_6.3;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S41240669 3 Danny_Standing_clip6.txt t(12,36,24,844);t(12,36,51,131); 0 48 323 222 NA practice
+75.32.5.219 05/November/2018 06:37:12 Mozilla/5.0_(Windows_NT_6.3;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S41240669 4 Danny_Standing_clip3.txt t(12,36,52,858);t(12,37,14,19); 0 48 322 210 NA practice
+75.32.5.219 05/November/2018 06:37:40 Mozilla/5.0_(Windows_NT_6.3;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S41240669 5 Danny_Standing_clip4.txt t(12,37,15,215);t(12,37,42,602); 1 59 210 218 practice
+75.32.5.219 05/November/2018 06:38:03 Mozilla/5.0_(Windows_NT_6.3;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S41240669 quiz:Q1:1_Q2:2
+75.32.5.219 05/November/2018 06:38:29 Mozilla/5.0_(Windows_NT_6.3;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S41240669 0 Shira_Standing_clip8.txt t(12,38,10,506);t(12,38,31,959); 1 38 213 209 1W 1
+75.32.5.219 05/November/2018 06:39:24 Mozilla/5.0_(Windows_NT_6.3;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S41240669 1 Shira_Standing_clip14.txt t(12,38,32,931);t(12,39,26,864); 1 49 222 252 3W 1
+75.32.5.219 05/November/2018 06:39:53 Mozilla/5.0_(Windows_NT_6.3;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S41240669 2 Tao_Standing_clip6.txt t(12,39,28,114);t(12,39,55,176); 0 60 0 0 NA 1
+75.32.5.219 05/November/2018 06:41:22 Mozilla/5.0_(Windows_NT_6.3;_Win64;_x64;_rv:63.0)_Gecko/20100101_Firefox/63.0 S41240669 3 Tao_Standing_clip13.txt t(12,39,56,820);t(12,41,24,808); 1 49 213 233 2W 1
