@@ -9,8 +9,8 @@ import cv2
 
 from scipy.odr import ODR, Model, Data
 
-DELTA = 15
-MODEL_TYPE = "linear"
+DELTA = 10
+MODEL_TYPE = "poly"
 WEIGHTS = [.5,.5]
 
 
@@ -151,14 +151,14 @@ def run_model(root_folder, trial):
 
 if __name__ == '__main__':
     root_folder = "../reaching_images"
-    hand_centers = pd.read_csv("./trial_data/hand_locations.csv", index_col=0)
+    hand_centers = pd.read_csv("./trial_data/sitting_hand_locations.csv", index_col=0)
     objects = pd.read_csv("./trial_data/object_positions.csv", sep=" ")
     output = {'frame_name': [], 'frame_num':[], 'obj1_name': [], 'obj1_prob':[], 'obj2_name':[], 'obj2_prob':[]}
 
-    for trial in ['Shira_Standing', 'Tao_Standing']:
+    for trial in ['Tao_Sitting']:
         run_model(root_folder, trial)
 
-    pd.DataFrame(output).to_csv("./model_results/%s%i%s%s.csv" %(MODEL_TYPE,
+    pd.DataFrame(output).to_csv("./model_results/sitting%s%i%s%s.csv" %(MODEL_TYPE,
                                                                  DELTA,
                                                                  str(WEIGHTS[0]),
                                                                  str(WEIGHTS[1])))

@@ -141,12 +141,12 @@ for clip in clips:
         if guess1 == data['Label'].iloc[0]:
             correct += 1
 
-        plt.plot(click_points, [i[1] for i in click_and_percentage], color='b', label="MTurk", linewidth=2.0)
+        plt.scatter(click_points, [i[1] for i in click_and_percentage], color='b', label="MTurk", marker='D')
         if MODEL_TYPE == "poly":
             graph_label = "Polynomial Model"
         else:
             graph_label = "Linear Model"
-        plt.plot(click_points, [i[1] for i in model_and_percentage], color='c', label=graph_label, linewidth=2.0)
+        plt.scatter(click_points, [i[1] for i in model_and_percentage], color='c', label=graph_label, marker='D')
         plt.ylim(-.1, 1.1)
         plt.xticks([i for i in list(range(int(click_points[0])-int(click_points[0])%5, int(click_points[-1])+5, 5))])
         plt.ylabel('Percent Correct')
@@ -162,9 +162,9 @@ for clip in clips:
             guess1, prob1 = list(model_trial[model_trial['frame_num'] == clip_length - click].iloc[0])[3:5]
             if guess1 in all_guesses:
                 all_guesses[guess1] += 1
-                model_guess_num += 1
             else:
-                all_guesses[guess1] = 0
+                all_guesses[guess1] = 1
+            model_guess_num += 1
         model_heat_map_dist = list(all_guesses.items())
         for item in model_heat_map_dist:
             object_name, freq = item

@@ -139,11 +139,11 @@ if __name__ == '__main__':
     x_hand_locations = []
     y_hand_locations = []
 
-    for trial in ['Shira_Standing', 'Tao_Standing']:
+    for trial in ['Tao_Sitting']:
         run_tagger(root_folder, trial)
 
     d = {"imgs" : tagged_imgs, "x": x_hand_locations, "y": y_hand_locations}
     df = pd.DataFrame(d)
-    df.to_csv("./trial_data/hand_locations.csv")
+    df.to_csv("./trial_data/sitting_hand_locations.csv")
 
 
