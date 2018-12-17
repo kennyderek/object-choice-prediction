@@ -42,7 +42,6 @@ res["Correct"] = res["Selection"] == res["Label"]
 # filter for people who got less than 50% correct
 groups = pd.DataFrame.groupby(res, by='IP')
 bad_IPs = set([])
-total, correct = 0, 0
 for group in groups:
     name, data = group[0], group[1]
     if data["Correct"].sum()/len(data) < .5:
@@ -50,8 +49,8 @@ for group in groups:
         bad_IPs.add(name)
 res = res[~res["IP"].isin(bad_IPs)]
 
-
 # now I want to break the data up into data per Clip
+total, correct = 0, 0
 object_positions = pd.read_csv("./trial_data/object_positions.csv", sep=" ")
 hand_locations = pd.read_csv("./trial_data/hand_locations.csv")
 res.to_csv("./trial_data/parsed_tao_data.csv")
@@ -121,7 +120,8 @@ for clip in clips:
         click_and_percentage.sort(key=lambda x: x[0])
 
         model_and_percentage = []
-        for click in click_points:
+        model_plot_points = range(int(click_points[0]), int(click_points[-1]+1))
+        for click in model_plot_points:
             guess1, prob1 = list(model_trial[model_trial['frame_num'] == clip_length - click].iloc[0])[3:5]
             guess2, prob2 = list(model_trial[model_trial['frame_num'] == clip_length - click].iloc[0])[5:7]
 
@@ -136,17 +136,24 @@ for clip in clips:
         # average the data
         avg_click = np.average(all_frame_clicks)
         median_click = np.median(all_frame_clicks)
-        guess1, prob1 = list(model_trial[model_trial['frame_num'] == clip_length - int(avg_click)].iloc[0])[3:5]
+        guess1, prob1 = list(model_trial[model_trial['frame_num'] == clip_length - int(median_click)].iloc[0])[3:5]
+        guess2, prob2 = list(model_trial[model_trial['frame_num'] == clip_length - int(median_click)].iloc[0])[5:7]
         total += 1
+        '''
+        this is where we evaluate accuracy
+        if you want to determine 1st and 2nd choice accuracy, uncomment the first if statement, and comment the second
+        '''
+        # if guess1 == data['Label'].iloc[0] or guess2 == data['Label'].iloc[0]:
+        #     correct += 1
         if guess1 == data['Label'].iloc[0]:
             correct += 1
 
-        plt.scatter(click_points, [i[1] for i in click_and_percentage], color='b', label="MTurk", marker='D')
         if MODEL_TYPE == "poly":
             graph_label = "Polynomial Model"
         else:
             graph_label = "Linear Model"
-        plt.scatter(click_points, [i[1] for i in model_and_percentage], color='c', label=graph_label, marker='D')
+        plt.plot(model_plot_points, [i[1] for i in model_and_percentage], color='c', label=graph_label)
+        plt.scatter(click_points, [i[1] for i in click_and_percentage], color='b', label="MTurk", marker='D')
         plt.ylim(-.1, 1.1)
         plt.xticks([i for i in list(range(int(click_points[0])-int(click_points[0])%5, int(click_points[-1])+5, 5))])
         plt.ylabel('Percent Correct')
