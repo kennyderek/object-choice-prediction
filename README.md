@@ -16,8 +16,12 @@ edit and then run prediction_model.py. This file takes the hand locations and co
 ### To build the graph for standing-only:
 Run data_visualizer.py
 
+This file outputs to tao_data_graphs.
+
 ### To build the visualizations and get accuracy for sitting-experiment:
 Run sitting_model_data_parser.py
+
+This file outputs to sitting_model_results.
 
 ### To determine how similar human observer and model predictions are:
 Run evaluate_similarity.py
